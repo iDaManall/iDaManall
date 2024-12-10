@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 📚 Undergrad Computer Science student at Macaulay Honors College & The City College of New York.
 
-🌱 Currently working on:
+🌱 What I've been working on:
 - ML Project with Candogram through Break Through Tech AI.
 - React Projects through CodePath, Supabase for backend. Check out some [demos!](https://drive.google.com/drive/folders/1uDj5M6mBl2zR-iEbP0HT1JxWNnyjsrzC?usp=sharing)
 - Fullstack e-bidding application utilizing tools such as Django and React.
